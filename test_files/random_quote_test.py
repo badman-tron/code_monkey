@@ -1,0 +1,14 @@
+1 = You want to know how I did it? This is how I did it, I never saved anything for the swim back.
+2 = No, no. I got the better end of the deal. I only lent you my body. You lent me your dream.
+3 = For someone who was never meant for this world, I must confess I'm suddenly having a hard time leaving it. Of course, they say every atom in our bodies was once part of a star. Maybe I'm not leaving... maybe I'm going home.
+4 = There's no gene for fate.
+5 = For future reference, right-handed men don't hold it with their left. Just one of those things.
+6 = I belonged to a new underclass, no longer determined by social status or the color of your skin. No, we now have discrimination down to a science.
+7 = "I not only think that we will tamper with Mother Nature, I think Mother wants us to." - Willard Gaylin
+8 = They used to say that a child conceived in love has a greater chance of happiness. They don't say that anymore.
+9 = There's more vodka in this piss than there is piss.
+10 = We were just wondering if, if it is good to just leave a few things to, to chance?
+11 = "Unacceptable risk of heart failure." I think that's what the manual says. The only trip I'll take in space is around the sun on this satellite right here.
+12 = Well... I guess we can rule out suicide.
+13 = The only way you're going to see the inside of a spaceship is if you were cleaning it.
+14 = Jerome Morrow was never meant to be one step down on the podium.
