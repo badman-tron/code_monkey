@@ -6,19 +6,52 @@ seq = raw_input('Please enter your DNA sequence:')
 seq = seq.upper() #ensure sequence is upper case so analysis scripts work
 
 #the different kinds of analysis available
-print '1 transcribe''\n''2 translate''\n''3 reverse compliment''\n''4 calulate GC content''\n''5 nucleotide count''\n''6 total basepair''\n''7 enter a new sequence''\n''8 help''\n''9 quit'
-analysis = raw_input('Enter the number corresponding to the desired analysis: ')
+analysis_selection = true
+while analysis_selection = true 
+  print '1 transcribe''\n''2 translate''\n''3 reverse compliment''\n''4 calulate GC content''\n''5 nucleotide count''\n''6 total basepair''\n''7 enter a new sequence''\n''8 help''\n''9 quit'
+analysis = raw_input('Enter the number corresponding to the desired analysis: ')  
+
+if analysis == '1':
+  print 'transcribe'
+
+elif analysis == '2':
+  print 'translate'
+
+elif analysis == '3':
+  print 'reverse compliment'
+
+elif analysis == '4':
+  print 'calculate GC content'
+
+elif analysis == '5':
+  print 'nucleotide count'
+
+elif analysis == '6':
+  print 'The sequence is',len(seq),'nucleotides long.'
+  break
 
 
-#fuckotest - make sure this is deleted
-while analysis == 1:
-	print 'fuckotest'
+elif analysis == '7':
+  print 'please enter your new sequence'
 
 
+elif analysis =='8':
+  print 'there is no help'    
+
+elif analysis =='9':
+  print 'see you next time'
+
+else:
+  print "please make a valid selection"
+
+further_analysis = raw_input(would you like to perform more analysis? (y/n))
+  
+
+"""
 #Nucleotide count
 #This code will count the number of each kind of nucleotide in the sequence
 
-while analysis == 5:
+if analysis == 5:
 	print "NUCLEOTIDE COUTER"
 
 a_count = 0
@@ -45,7 +78,6 @@ for char in seq:
 print "A: %s \nC: %s \nG: %s \nT: %s" % (a_count, c_count, g_count, t_count)
 
 
-"""
 #This code will determine the length of the sequence
 #when raw imput = #
 
